@@ -1,0 +1,15 @@
+Given two numbers a and b. Your task is to return the sum of a and b.
+
+Examples:
+
+Input: a = 1, b = 2
+Output: 3
+Explanation: Addition of 1 and 2 is 3.
+
+
+class Solution {
+    static int addition(int a, int b) {
+        // code here
+        return a+b;
+    }
+}
